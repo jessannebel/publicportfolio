@@ -1,2 +1,2 @@
 # publicportfolio
-A public portfolio of my technical writing
+Technical writing public portfolio
